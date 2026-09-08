@@ -16,7 +16,7 @@ To connect through the tunnel:
 2. Start the local TCP proxy:
 
 ```bash
-cloudflared access tcp --hostname asking-previous-previous-urls.trycloudflare.com --url localhost:2222
+cloudflared access tcp --hostname calling-present-colors-valves.trycloudflare.com --url localhost:2222
 ```
 
 3. In a second terminal, connect with the provided private key:
