@@ -16,7 +16,8 @@ To connect through the tunnel:
 2. Start the local TCP proxy:
 
 ```bash
-cloudflared access tcp --hostname testing-covered-spokesman-vocabulary.trycloudflare.com --url localhost:2222
+cloudflared access tcp --hostname fireplace-steps-showtimes-browsers.trycloudflare.com --url localhost:2222
+
 
 ```
 
