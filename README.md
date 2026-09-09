@@ -17,6 +17,7 @@ To connect through the tunnel:
 
 ```bash
 cloudflared access tcp --hostname testing-covered-spokesman-vocabulary.trycloudflare.com --url localhost:2222
+
 ```
 
 3. In a second terminal, connect with the provided private key:
